@@ -1,0 +1,13 @@
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\EntityFrameWork.exe.config
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\EntityFrameWork.exe
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\EntityFrameWork.pdb
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\obj\Debug\EntityFrameWork.csprojAssemblyReference.cache
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\obj\Debug\EntityFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\obj\Debug\EntityFrameWork.csproj.CopyComplete
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\obj\Debug\EntityFrameWork.exe
+C:\Users\темирбулата\source\repos\EntityFrameWork\EntityFrameWork\obj\Debug\EntityFrameWork.pdb
